@@ -9,36 +9,31 @@ This project presents a comprehensive data visualization of the mobile phone mar
 🔍 Key Features
 Interactive Dashboard to explore smartphone trends
 
-Analysis of:
+>Analysis of:
 
-Customer ratings
+  Customer ratings
 
-Pricing
+  Pricing
 
-Storage capacity
+  Storage capacity
 
-Brand performance
+  Brand performance
 
-Visualizations include:
+>Visualizations include:
 
-Bar charts
+  Bar charts
 
-Tree maps
+  Tree maps
 
-Scatter plots
+  Scatter plots
 
-Provides actionable insights for better decision-making
+>Provides actionable insights for better decision-making
 
 📊 Outcome
 By converting raw data into intuitive visuals, this dashboard enables users to:
 
-Compare smartphones across key metrics
+  Compare smartphones across key metrics
 
-Identify top-performing brands
+  Identify top-performing brands
 
-Make informed purchase or strategy decisions
-
-🧰 Tools Used
-Tableau (for visualization and dashboard design)
-
-Excel/CSV (data preprocessing)
+  Make informed purchase or strategy decisions
